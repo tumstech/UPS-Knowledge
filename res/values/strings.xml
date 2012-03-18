@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UPS-Knowledge</string>
+    <string name="batteryCategory">Battery Details</string>
+    <string name="voltage">Voltage</string>
+    <string name="ampHour">Amp Hour</string>
+    <string name="batteryCount">Count</string>
+    <string name="Exit">Exit</string>
+    <string name="totalVA">Total VA Capacity</string>
+    <string name="num0">0</string>
+
+</resources>
